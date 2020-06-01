@@ -23,6 +23,15 @@
    background-position: 0 -100px;
  }
 
+ .parallax-container {
+   height: 600px;
+ }
+
  .galeri {
    padding: 50px;
+
+ }
+
+ .galeri img {
+   width: 100%;
  }
