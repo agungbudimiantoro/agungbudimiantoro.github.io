@@ -1,0 +1,28 @@
+ nav li a {
+   color: black;
+ }
+
+ .about {
+   margin-top: 100px;
+   margin-bottom: 100px;
+ }
+
+ .profile img {
+   height: 200px;
+   width: 200px;
+   object-fit: cover;
+   margin-top: 50px;
+   border: 2px solid white;
+ }
+
+ .profile {
+   background-image: url('../img/IMG-20180930-WA0050.jpg');
+   background-size: cover;
+   padding-bottom: 50px;
+   background-attachment: fixed;
+   background-position: 0 -100px;
+ }
+
+ .galeri {
+   padding: 50px;
+ }
